@@ -1,0 +1,13 @@
+altair==4.2.0
+keras==2.7.0
+Keras-Preprocessing==1.1.2
+Pillow==8.4.0
+protobuf==3.14.0
+requests==2.25.1
+scikit-image==0.18.3
+streamlit
+tables==3.6.1
+tensorflow==2.7.0
+tensorflow-io-gcs-filesystem==0.24.0
+beautifulsoup4
+tensorflow_hub
